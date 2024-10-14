@@ -6,3 +6,4 @@ langchain-core
 faiss-cpu
 openai
 PyPDF2
+pypdf
